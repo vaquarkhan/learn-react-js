@@ -1,4 +1,4 @@
-# learn-react-js
+# Learn React-js
 
 ![Alt Text](https://miro.medium.com/max/3600/1*HSisLuifMO6KbLfPOKtLow.jpeg)
 
