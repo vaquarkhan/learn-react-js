@@ -95,3 +95,7 @@ In addition to our mapStateToProps function, we're also going to add a mapDispat
 
 # Type scripts
 - https://www.youtube.com/watch?v=BwuLxPH8IDs
+
+
+### Books :
+- https://github.com/vetsinen/react-books
