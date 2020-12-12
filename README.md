@@ -7,7 +7,11 @@
 
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--VtRaY29J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fewc8ez6r2e2agah717y.png )
 
+
 ![Alt Text](https://i.redd.it/vezwyo0qq4lz.png )
+
+
+![Alt Text](https://hackernoon.com/hn-images/1*R6QYV3yvknDTy6A2BugiAA.png )
 
 ### Redux:
 
