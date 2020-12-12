@@ -57,6 +57,32 @@ A reducer is just a function that takes two arguments and returns your app's cur
 Redux actions are JavaScript objects that contain two properties: type and payload. These actions are "dispatched," or used as arguments by the Redux store's dispatch API method
 
 
+### Component:
+
+              const mapStateToProps = (state, ownProps) => ({
+                // ... computed data from state and optionally ownProps
+              })
+
+              const mapDispatchToProps = {
+                // ... normally is an object full of action creators
+              }
+
+              // `connect` returns a new function that accepts the component to wrap:
+              const connectToStore = connect(
+                mapStateToProps,
+                mapDispatchToProps
+              )
+              // and that function returns the connected, wrapper component:
+              const ConnectedComponent = connectToStore(Component)
+
+              // We normally do both in one step, like this:
+              connect(
+                mapStateToProps,
+                mapDispatchToProps
+              )(Component)
+
+-----------------------------
+
 ### Create react redux project :
 
                        npx create-react-app my-app --template redux
